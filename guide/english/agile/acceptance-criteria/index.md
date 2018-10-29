@@ -24,3 +24,4 @@ Nomad8 provides an [FAQ on Acceptance Criteria](https://nomad8.com/acceptance_cr
 Leading Agile on [Acceptance Criteria](https://www.leadingagile.com/2014/09/acceptance-criteria/)
 hi
 hi
+hi
